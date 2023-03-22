@@ -8,7 +8,7 @@
 
 ## Skills
 
-💻 C++, Java
+💻 C++ & Java
 
 ## Education
 
