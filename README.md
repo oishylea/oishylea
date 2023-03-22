@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, I'm Aliatul Izzah 👋
+I'm a 1st year student in degree on data engineering from Shah Alam, Selangor. I'm passionate about data analysis, machine learning, and software development.
 
-<!--
-**oishylea/oishylea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Projects
+Developing a data pipeline to analyze weather patterns using Python and Apache Spark
+Building a recommendation system for an e-commerce website using collaborative filtering
+Exploring natural language processing techniques for sentiment analysis
 
-Here are some ideas to get you started:
+🌱 Skills
+Programming languages: Python, Java, C++
+Databases: MySQL, MongoDB, PostgreSQL
+Tools and Frameworks: Git, Apache Spark, TensorFlow, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+LinkedIn: linkedin.com/in/aliatul-izzah-jasman-2a72b8261/
+Email: aliatulizzah@graduate.utm.my
+Feel free to connect with me on LinkedIn or send me an email if you want to chat about data engineering
