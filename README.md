@@ -21,8 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="game 1" width="245" height="200">
-  <img src="https://media.giphy.com/media/zZMTVkTeEfeEg/giphy.gif" alt="game 2" width="250" height="200">
-  <img src="https://media.giphy.com/media/WJOq6yKop0A1y/giphy.gif" alt="game 3" width="250" height="200">
-  <img src="https://media.giphy.com/media/KZGN8tU5OmFJC/giphy.gif" alt="game 3" width="245" height="200">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="game 1" width="270" height="200">
+  <img src="https://media.giphy.com/media/WJOq6yKop0A1y/giphy.gif" alt="game 3" width="270" height="200">
+  <img src="https://media.giphy.com/media/KZGN8tU5OmFJC/giphy.gif" alt="game 3" width="270" height="200">
 </p>
