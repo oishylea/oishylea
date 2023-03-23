@@ -6,7 +6,7 @@
 
 📚 Learning the fundamentals of GitHub
 
-Learning C++
+📚 Learning C++
 
 ## Skills
 
