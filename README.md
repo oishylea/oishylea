@@ -5,6 +5,7 @@
 ## Current Projects
 
 📚 Learning the fundamentals of GitHub
+📚 Learning C++
 
 ## Skills
 
