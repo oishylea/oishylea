@@ -6,6 +6,8 @@
 
 📚 Learning the fundamentals of GitHub
 
+Learning C++
+
 ## Skills
 
 💻 C++ & Java
