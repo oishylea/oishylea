@@ -16,7 +16,7 @@
 
 ## Education
 
-🎓 BSc in Data Engineering, University of Technology Malaysia, 2022-present
+🎓 BSc of Computer Science ( Data Engineering) , University of Technology Malaysia, 2022-present
 
 ## Contact
 
