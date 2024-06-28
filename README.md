@@ -1,6 +1,6 @@
 # Hi there, I'm Aliatul Izzah 👋
 
-👩🏻‍🎓 First year data engineering student from Shah Alam, Selangor.
+👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.
 
 👩🏻‍💻 Passionate about 📊 data analysis and 💻 software development.
 
