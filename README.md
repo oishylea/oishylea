@@ -20,7 +20,7 @@
 
 ## Contact
 
-📧 You can find me on [LinkedIn](https://www.linkedin.com/in/aliatul-izzah-jasman-2a72b8261/) or email me at aliatulizzah@graduate.utm.my
+📧 You can find me on [LinkedIn](https://www.linkedin.com/in/aliatul-izzah-jasman-2a72b8261/) or email me at izzahalia6@gmail.com
 
 ---
 
