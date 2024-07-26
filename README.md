@@ -12,7 +12,7 @@
 
 ## Skills
 
-💻 C++ & Java
+💻 C++ Java HTML CSS PHP Dart SQL
 
 ## Education
 
