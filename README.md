@@ -6,9 +6,9 @@
 
 ## Current Projects
 
-📚 Learning the fundamentals of GitHub
+📚 Nintendo Switch Games Catalog Mobile Application
 
-⌨️ Learning C++
+⌨️ Learning C++, Flutter
 
 ## Skills
 
