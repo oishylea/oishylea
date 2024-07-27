@@ -7,6 +7,7 @@
 ## Current Projects
 
 📚 Nintendo Switch Games Catalog Mobile Application
+    Check out the [Preview here](https://switchsavvy-5465c.web.app/).
 
 ⌨️ Learning C++, Flutter
 
