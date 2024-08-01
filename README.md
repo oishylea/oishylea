@@ -13,21 +13,23 @@
 
 ## Skills
 
-💻 C++ Java HTML CSS PHP Dart SQL
-<p ><img src="images/css.png" alt="Firebase Main Page" width="5%" height="30%" />
-  <img src="images/cpp.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/html.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/js.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/java.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/php.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/sql.png" alt="Firebase Main Page" width="5%" height="30%" />
-<img src="images/dart.png" alt="Firebase Main Page" width="5%" height="30%" />
-  <img src="images/flutter.png" alt="Firebase Main Page" width="7%" height="30%" />
+<html>
+<div style="background-color: white; padding: 15px; border-radius: 8px; box-shadow: 0 0 15px rgba(0,0,0,0.1);">
+  <img src="images/css.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/cpp.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/html.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/js.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/java.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/php.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/sql.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/dart.png" alt="Firebase Main Page" width="50" height="50" />
+  <img src="images/flutter.jpg" alt="Firebase Main Page" width="50" height="50" />
+</div></html>
 
-</p>
-## Education
+<!--## Education
 
 🎓 BSc of Computer Science ( Data Engineering ) , University of Technology Malaysia, 2022-present
+-->
 
 ## Contact
 
