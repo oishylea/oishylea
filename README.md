@@ -2,7 +2,6 @@
 
 👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.
 
-👩🏻‍💻 Passionate about 📊 data analysis and 💻 software development.
 
 ## Projects
 
