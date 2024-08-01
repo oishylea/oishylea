@@ -9,8 +9,6 @@
 📚 Nintendo Switch Games Catalog Mobile Application <br>
     Check out the [Preview here](https://switchsavvy-5465c.web.app/).
 
-📚 Netflix recommendation web with phyton
-
 ## Skills
 
 💻 C++ Java HTML CSS PHP Dart SQL
