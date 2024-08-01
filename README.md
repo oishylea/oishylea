@@ -1,3 +1,6 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Oishylea.Oishylea)
+[visitor-badge](https://visitor-badge.glitch.me/)
+
 # Hi there, I'm Aliatul Izzah 🫧
 
 👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.
