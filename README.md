@@ -1,5 +1,5 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Oishylea.Oishylea)
-[visitor-badge](https://visitor-badge.glitch.me/)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foishylea%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Hi there, I'm Aliatul Izzah 🫧
 
