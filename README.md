@@ -1,4 +1,4 @@
-# Hi there, I'm Aliatul Izzah 👋
+# Hi there, I'm Aliatul Izzah 🫧
 
 👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.
 
