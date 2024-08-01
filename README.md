@@ -16,7 +16,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,js,php,dart,flutter,figma,r,firebase,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,ps)](https://skillicons.dev)
 
 <!--## Education
 
