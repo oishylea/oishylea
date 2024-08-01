@@ -29,9 +29,10 @@
 <a href="https://www.linkedin.com/in/aliatul-izzah/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:izzahalia6@gmail.com">
+<!--<a href="mailto:izzahalia6@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
+  -->
 <a href="https://discord.com/users/izzahalia" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
