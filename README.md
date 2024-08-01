@@ -4,10 +4,13 @@
 
 👩🏻‍💻 Passionate about 📊 data analysis and 💻 software development.
 
-## Current Projects
+## Projects
 
-📚 Nintendo Switch Games Catalog Mobile Application <br>
-    Check out the [Preview here](https://switchsavvy-5465c.web.app/).
+🎮 [Nintendo Switch Games Catalog - Flutter](https://switchsavvy-5465c.web.app/) <br>
+📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App)<br>
+👩🏻‍🎓 [Student Management System - Website](https://github.com/oishylea/YouthVenture)<br>
+🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
+
 
 ## Skills
 
