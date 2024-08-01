@@ -9,7 +9,7 @@
 📚 Nintendo Switch Games Catalog Mobile Application <br>
     Check out the [Preview here](https://switchsavvy-5465c.web.app/).
 
-⌨️ Learning C++, Flutter
+📚 Netflix recommendation web with phyton
 
 ## Skills
 
