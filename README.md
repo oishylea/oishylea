@@ -13,7 +13,7 @@
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/YouthVenture)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
-📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySyste)<br>
+📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
 
 
 ## Skills
