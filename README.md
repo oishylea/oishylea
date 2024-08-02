@@ -14,6 +14,7 @@
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
+🎬 [Movie Recommendation System - Machine Learning](https://github.com/oishylea/MovieRecommendationSystem/tree/main)<br>
 
 
 ## Skills
