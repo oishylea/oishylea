@@ -8,9 +8,10 @@
 
 ## Projects
 
-🎮 [Nintendo Switch Games Catalog - Flutter](https://switchsavvy-5465c.web.app/) <br>
+🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://switchsavvy-5465c.web.app/) <br>
 📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App)<br>
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/YouthVenture)<br>
+📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 
 
