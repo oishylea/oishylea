@@ -3,8 +3,8 @@
 # Hi there, I'm Aliatul Izzah 🫧
 
 👩🏻‍🎓 Second year Data Engineering student from Shah Alam, Selangor.<br>
-🗺️ Spoken Languages&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;English💂🏻&nbsp;&nbsp;&nbsp;Japanese🍡&nbsp;&nbsp;&nbsp;Malay🧕🏻<br>
-✍️ Currently Studying&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Mandarin🐉&nbsp;&nbsp;&nbsp;Italian🍕<br>
+🗺️ Spoken Languages&nbsp;&nbsp;&nbsp;: English💂🏻 Japanese🍡 Malay🧕🏻<br>
+✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>
 
 ## Projects
 
