@@ -3,8 +3,9 @@
 
 # Hi there, I'm Aliatul Izzah 🫧
 
-👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.
-
+👩🏻‍🎓 Second year data engineering student from Shah Alam, Selangor.<br>
+🗺️ Spoken Languages&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;English💂🏻&nbsp;&nbsp;&nbsp;Japanese🍡&nbsp;&nbsp;&nbsp;Malay🧕🏻<br>
+✍️ Currently Studying&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Mandarin🐉&nbsp;&nbsp;&nbsp;Italian🍕<br>
 
 ## Projects
 
