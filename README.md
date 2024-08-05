@@ -10,7 +10,7 @@
 
 🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://switchsavvy-5465c.web.app/) Still in progress<br>
 📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App)<br>
-👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/YouthVenture)<br>
+👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
