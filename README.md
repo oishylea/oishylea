@@ -37,6 +37,7 @@
 
 ---
 <p align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="game 3" width="270" height="200">
   <img src="https://media.giphy.com/media/WJOq6yKop0A1y/giphy.gif" alt="game 3" width="270" height="200">
   <img src="https://media.giphy.com/media/KZGN8tU5OmFJC/giphy.gif" alt="game 3" width="270" height="200">
 </p>
