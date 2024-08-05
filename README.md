@@ -21,10 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev)
 
-<!--## Education
-
-🎓 BSc of Computer Science ( Data Engineering ) , University of Technology Malaysia, 2022-present
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact)
 
 ## Contact
 
@@ -32,17 +29,13 @@
 <a href="https://www.linkedin.com/in/aliatul-izzah/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<!--<a href="mailto:izzahalia6@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-  -->
+
 <a href="https://discord.com/users/izzahalia" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 </p>
 
 ---
-
 <p align="center">
   <img src="https://media.giphy.com/media/WJOq6yKop0A1y/giphy.gif" alt="game 3" width="270" height="200">
   <img src="https://media.giphy.com/media/KZGN8tU5OmFJC/giphy.gif" alt="game 3" width="270" height="200">
