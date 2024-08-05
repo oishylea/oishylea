@@ -14,7 +14,7 @@
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
-🎬 [Movie Recommendation System - Phyton](https://github.com/oishylea/MovieRecommendationSystem/tree/main) Still in progress<br>
+🎬 [Movie Recommendation System - Phyton](https://github.com/oishylea/MovieRecommendationSystem/tree/main) Hosting in progress<br>
 
 
 ## Skills
