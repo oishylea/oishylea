@@ -4,7 +4,7 @@
 
 👩🏻‍🎓 Second year Data Engineering student from Shah Alam, Selangor.<br>
 🗺️ Spoken Languages&nbsp;&nbsp;&nbsp;: English💂🏻 Japanese🍡 Malay🧕🏻<br>
-✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>
+<!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Projects
 
