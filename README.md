@@ -15,7 +15,10 @@
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
 🎬 [Movie Recommendation System - Python](https://github.com/oishylea/MovieRecommendation)<br>
+🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer)<br> Still in progress
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
+
+
 
 
 ## Skills
