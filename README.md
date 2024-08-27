@@ -6,16 +6,19 @@
 🗺️ Spoken Languages&nbsp;&nbsp;&nbsp;: English💂🏻 Japanese🍡 Malay🧕🏻<br>
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
-## Projects
+## Ongoing Projects
+🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://switchsavvy-5465c.web.app/) <br>
+🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer)<br>
+🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices)<br>
 
-🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://switchsavvy-5465c.web.app/) Still in progress<br>
+## Recent Projects
+
 📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App)<br>
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
 🎬 [Movie Recommendation System - Python](https://github.com/oishylea/MovieRecommendation)<br>
-🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) Still in progress<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
 
 
