@@ -28,8 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact&langs_count=10&hide=html,css)
 ## Contact
 
 <p>
