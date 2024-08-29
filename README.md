@@ -18,7 +18,7 @@
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
-🎬 [Movie Recommendation System - Python](https://github.com/oishylea/MovieRecommendation)<br>
+🎬 [Movie Recommendation System - Python](https://github.com/oishylea/MovieRecommendation) | [Live Demo](https://movierecommendationsystem-9jd6.onrender.com/)<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
 
 
@@ -34,10 +34,6 @@
 <p>
 <a href="https://www.linkedin.com/in/aliatul-izzah/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="https://discord.com/users/izzahalia" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 </p>
 
