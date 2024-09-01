@@ -10,7 +10,7 @@
 🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://switchsavvy-5465c.web.app/) <br>
 🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices)<br>
 
-## Recent Projects
+## Past Projects
 
 📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App) | [Live Demo](https://todolist-9a14f.web.app/)<br>
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
