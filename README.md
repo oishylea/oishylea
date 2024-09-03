@@ -37,6 +37,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA5B29?logo=jupyter&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 ![Render](https://img.shields.io/badge/-Render-4D4D4D?logo=render&logoColor=white&style=flat)
 ![Itch.io](https://img.shields.io/badge/-Itch.io-FF4F00?logo=itch.io&logoColor=white&style=flat)
 ![CPP](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
