@@ -9,6 +9,7 @@
 ## Ongoing Projects
 🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://github.com/oishylea/SwitchSavvy/blob/main/README.md) | [Live Demo](https://switchsavvy-5465c.web.app/)<br>
 🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices)<br>
+📊 [Testing An Interactive Dashboard - Python](https://github.com/oishylea/InteractiveDashboard)<br>
 
 ## Recent Projects
 
