@@ -4,7 +4,7 @@
 
 👩🏻‍🎓 Second-year Data Engineering student from Selangor.<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Japanese,&nbsp;Malay<br>
-🗂️ Click to open [My Portfolio](https://oishylea.github.io/IzzahPortfolio/)
+🗂️ Click to open [Izzah's Portfolio](https://oishylea.github.io/IzzahPortfolio/)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Ongoing Projects
