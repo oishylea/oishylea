@@ -15,7 +15,7 @@
 
 ## Recent Projects
 
-📱 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App) | [Live Demo](https://todolist-9a14f.web.app/)<br>
+📌 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App) | [Live Demo](https://todolist-9a14f.web.app/)<br>
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
