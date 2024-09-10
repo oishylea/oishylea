@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Aliatul Izzah 🫧
 
-👩🏻‍🎓 Second-year Data Engineering student from Selangor.<br>
+👩🏻‍🎓 Second-year Data Engineering student.<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Japanese,&nbsp;Malay<br>
 🗂️ Click to open [Izzah's Portfolio](https://oishylea.github.io/IzzahPortfolio/)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
