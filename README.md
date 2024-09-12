@@ -12,6 +12,7 @@
 🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices) | [Live Demo](https://malaysia-vet-services-2021.streamlit.app/)<br>
 📊 [Testing An Interactive Dashboard - Python](https://github.com/oishylea/InteractiveDashboard) | [Live Demo](https://interactivedashboard-1tu4.onrender.com/)<br>
 📱 [Interactive Evolution of Mobile Phones - Website](https://github.com/oishylea/MobilePhoneEvolution) | [Live Demo](https://oishylea.github.io/MobilePhoneEvolution/)<br>
+👨‍🔧 [Global Horizon Sdn. Bhd. - Website](https://oishylea.github.io/GlobalHorizon/)
 
 ## Recent Projects
 
