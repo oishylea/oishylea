@@ -8,19 +8,18 @@
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Ongoing Projects
-🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://github.com/oishylea/SwitchSavvy) | [Live Demo](https://switchsavvy-5465c.web.app/)<br>
+🤖 [HopeNest - Laravel](https://github.com/oishylea/RedditClone)<br>
 🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices) | [Live Demo](https://malaysia-vet-services-2021.streamlit.app/)<br>
 📊 [Testing An Interactive Dashboard - Python](https://github.com/oishylea/InteractiveDashboard) | [Live Demo](https://interactivedashboard-1tu4.onrender.com/)<br>
 👨‍🔧 [Global Horizon Sdn. Bhd. - Website](https://oishylea.github.io/GlobalHorizon/)
 
 ## Recent Projects
 
-📌 [To Do List - Flutter](https://github.com/oishylea/Flutter-To-Do-List-App) | [Live Demo](https://todolist-9a14f.web.app/)<br>
+🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://github.com/oishylea/SwitchSavvy) | [Live Demo](https://switchsavvy-5465c.web.app/)<br>
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 📱 [Interactive Evolution of Mobile Phones - Website](https://github.com/oishylea/MobilePhoneEvolution) | [Live Demo](https://oishylea.github.io/MobilePhoneEvolution/)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
-🎬 [Movie Recommendation System - Python](https://github.com/oishylea/MovieRecommendation) | [Live Demo](https://movierecommendationsystem-9jd6.onrender.com/)<br>
 🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) | [Live Demo](https://oishylea.itch.io/cat-aim-trainer)<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
 
