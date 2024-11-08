@@ -20,6 +20,7 @@
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 📱 [Interactive Evolution of Mobile Phones - Website](https://github.com/oishylea/MobilePhoneEvolution) | [Live Demo](https://oishylea.github.io/MobilePhoneEvolution/)<br>
 🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
+🍎 [Fruits Classification - Python](https://github.com/oishylea/FruitsClassification)<br>
 🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) | [Live Demo](https://oishylea.itch.io/cat-aim-trainer)<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
 
