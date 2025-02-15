@@ -23,7 +23,7 @@
 🍎 [Fruits Classification - Python](https://github.com/oishylea/FruitsClassification) | [Live Demo](https://fruitsclassification-izzah.streamlit.app/)<br>
 🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) | [Live Demo](https://oishylea.itch.io/cat-aim-trainer)<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
-🚦 [Smart Traffic Management System - Application](https://github.com/oishylea/SmartTraffic)<br>
+🚦 [Smart Traffic Management System - Figma](https://github.com/oishylea/SmartTraffic)<br>
 
 
 
