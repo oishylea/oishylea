@@ -51,6 +51,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C94C?logo=powerbi&logoColor=black&style=flat)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white&style=flat)
