@@ -5,7 +5,7 @@
 👩🏻‍🎓 Third-year Data Engineering student from University of Technology Malaysia<br>
 🗺️ Spoken Languages&nbsp;:&nbsp;🇲🇾&nbsp;🇯🇵&nbsp;🇬🇧<br>
 🗂️ [Izzah's Portfolio](https://oishylea.github.io/IzzahPortfolio/)<br>
-🧸 [My Past Projects](https://github.com/oishylea/MyProjects)
+🧸 [My Past Projects]([httpse://github.com/oishylea/MyProject](https://oishylea.github.io/IzzahPortfolio/portfolio.html)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
 ## Ongoing Projects
