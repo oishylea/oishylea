@@ -3,7 +3,7 @@
 ## Hi there, I'm Aliatul Izzah 🫧
 
 👩🏻‍🎓 Third-year Data Engineering student from University of Technology Malaysia<br>
-🗺️ Spoken Languages&nbsp;:&nbsp;English,&nbsp;Japanese,&nbsp;Malay<br>
+🗺️ Spoken Languages&nbsp;:&nbsp;🇲🇾&nbsp;🇯🇵&nbsp;🇬🇧<br>
 🗂️ Click to open [Izzah's Portfolio](https://oishylea.github.io/IzzahPortfolio/)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
