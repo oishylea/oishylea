@@ -27,7 +27,7 @@
 🚦 [Smart Traffic Management System - Figma](https://github.com/oishylea/SmartTraffic)<br>
 
 ## Licences & Certifications
-🏅 [Japanese Language Proficiency Test : N2](https://www.linkedin.com/in/aliatul-izzah/overlay/1738323583725/single-media-viewer/?profileId=ACoAAEBLWp8BymRPZLaCCfwctnR5b3m9677eKtc)<br>
+🏅 [Japanese Language Proficiency Test : Level N2](https://www.linkedin.com/feed/update/urn:li:activity:7291069372599545858/)<br>
 🏅 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/139408c7-68b5-4c3e-aed7-0982aa9c1761/public_url)<br>
 🏅 [IBM watsonx Orchestrate Build an AI Assistant](https://www.credly.com/badges/2c7f4b26-1071-4189-bc49-725d91acfb6d/public_url)<br>
 🏅 [Introduction to Intelligent Virtual Agents (IVAs) with IBM watsonx Assistant](https://www.credly.com/badges/f1a22810-cf82-4b00-98e8-c328bb84c61b/public_url)<br>
