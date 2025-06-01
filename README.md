@@ -10,7 +10,7 @@
 
 ## Data Engineering Projects
 🍕 [Pizza Data Pipeline - Medallion Architecture](https://github.com/oishylea/PizzaDataPipeline)<br>
-💰 [Finance Data Pipeline - Python](https://github.com/oishylea/FinanceETL)<br>
+💰 [Finance Data Pipeline - Apache Airflow](https://github.com/oishylea/FinanceETL)<br>
 🚗 [Carlists.my Web Scraping - Python](https://github.com/drshahizan/HPDP/blob/main/2425/project/p1/GroupB/readme.md)<br>
 👾 [Nintendo Games Data Pipeline - Microsoft Azure](https://github.com/oishylea/adfNintendo)<br>
 
