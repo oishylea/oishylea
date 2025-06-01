@@ -8,11 +8,11 @@
 🧸 [My Past Projects](https://oishylea.github.io/IzzahPortfolio/portfolio.html)
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
 
-## Ongoing Projects
-🤖 [HopeNest - Laravel](https://github.com/oishylea/RedditClone)<br>
-🐱 [Malaysia Vet Services - Python](https://github.com/oishylea/MalaysiaVetServices) | [Live Demo](https://malaysia-vet-services-2021.streamlit.app/)<br>
-📊 [Testing An Interactive Dashboard - Python](https://github.com/oishylea/InteractiveDashboard) | [Live Demo](https://interactivedashboard-1tu4.onrender.com/)<br>
-👨‍🔧 [Global Horizon Sdn. Bhd. - Website](https://oishylea.github.io/GlobalHorizon/)
+## Data Engineering Projects
+🍕 [Pizza Data Pipeline - Medallion Architecture](https://github.com/oishylea/PizzaDataPipeline)<br>
+💰 [Finance Data Pipeline - Python](https://github.com/oishylea/FinanceETL)<br>
+🚗 [Carlists.my Web Scraping - Python](https://github.com/drshahizan/HPDP/blob/main/2425/project/p1/GroupB/readme.md)<br>
+👾 [Nintendo Games Data Pipeline - Microsoft Azure](https://github.com/oishylea/adfNintendo)<br>
 
 ## Recent Projects
 
@@ -20,18 +20,19 @@
 👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
 📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
 📱 [Interactive Evolution of Mobile Phones - Website](https://github.com/oishylea/MobilePhoneEvolution) | [Live Demo](https://oishylea.github.io/MobilePhoneEvolution/)<br>
-🛫 [Airline Booking System - Java](https://github.com/oishylea/AirlineBookingSystem)<br>
 🍎 [Fruits Classification - Python](https://github.com/oishylea/FruitsClassification) | [Live Demo](https://fruitsclassification-izzah.streamlit.app/)<br>
 🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) | [Live Demo](https://oishylea.itch.io/cat-aim-trainer)<br>
 🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
-🚦 [Smart Traffic Management System - Figma](https://github.com/oishylea/SmartTraffic)<br>
 
 ## Licences & Certifications
 🏅 [Japanese Language Proficiency Test : Level N2](https://www.linkedin.com/feed/update/urn:li:activity:7291069372599545858/)<br>
+🏅 [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/6bd5733c-040c-47eb-aae6-b539354168e3/public_url)<br>
+🏅 [AWS Academy Cloud Developing](https://www.credly.com/badges/0b289b5b-0275-4bbe-aa6f-a133484d6c44/public_url)<br>
+🏅 [AWS Academy Cloud Data Pipeline Builder](https://www.credly.com/badges/f58a8031-a913-4810-82f4-c751783b0d5b/public_url)<br>
 🏅 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/139408c7-68b5-4c3e-aed7-0982aa9c1761/public_url)<br>
 🏅 [IBM watsonx Orchestrate Build an AI Assistant](https://www.credly.com/badges/2c7f4b26-1071-4189-bc49-725d91acfb6d/public_url)<br>
 🏅 [Introduction to Intelligent Virtual Agents (IVAs) with IBM watsonx Assistant](https://www.credly.com/badges/f1a22810-cf82-4b00-98e8-c328bb84c61b/public_url)<br>
-🏅 [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6fb6c888-f2fc-4d4d-aa66-9827cef762e9/public_url)<br>
+
 
 
 ## Technical Skills
@@ -61,6 +62,9 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white&style=flat)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B3A1?logo=apacheairflow&logoColor=white&style=flat)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) -->
 
