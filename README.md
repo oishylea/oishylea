@@ -12,6 +12,7 @@
 💰 [Finance Data Pipeline - Apache Airflow](https://github.com/oishylea/FinanceETL)<br>
 🚗 [Carlists.my Web Scraping - Python](https://github.com/drshahizan/HPDP/blob/main/2425/project/p1/GroupB/readme.md)<br>
 👾 [Nintendo Games Data Pipeline - Microsoft Azure](https://github.com/oishylea/adfNintendo)<br>
+😄 [Real-Time Sentiment Analysis of Malaysian E-Wallet Reviews | Apache Tools](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/DataDrillers)<br>
 
 ## Recent Projects
 
