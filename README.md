@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Aliatul Izzah 🫧
 
-🎓 Third-year Data Engineering student from University of Technology Malaysia<br>
+🎓 Final-year Data Engineering student from University of Technology Malaysia<br>
 🗺️ Spoken Languages&nbsp;: Malay, English, Japanese<br>
 
 <!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
