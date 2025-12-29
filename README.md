@@ -1,30 +1,43 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foishylea%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## Hi there, I'm Aliatul Izzah 🫧
+<div align="center">
 
-🎓 Final-year Data Engineering student from University of Technology Malaysia<br>
-🗺️ Spoken Languages&nbsp;: Malay, English, Japanese<br>
+<br>
 
-<!--✍️ Currently Studying&nbsp;&nbsp;&nbsp;: Mandarin🐉 Italian🍕<br>-->
+<sub><h1>𓂂 𐬹 🫧 𐬹 𓂂</h1></sub>
+<sub><h1>Hi there, I'm Aliatul Izzah</h1></sub>
 
-## Data Engineering Projects
-🍕 [Pizza Data Pipeline - Medallion Architecture](https://github.com/oishylea/PizzaDataPipeline)<br>
-💰 [Finance Data Pipeline - Apache Airflow](https://github.com/oishylea/FinanceETL)<br>
-🚗 [Carlists.my Web Scraping - Python](https://github.com/drshahizan/HPDP/blob/main/2425/project/p1/GroupB/readme.md)<br>
-👾 [Nintendo Games Data Pipeline - Microsoft Azure](https://github.com/oishylea/adfNintendo)<br>
-😄 [Real-Time Sentiment Analysis of Malaysian E-Wallet Reviews - Apache Tools](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/DataDrillers)<br>
+<p align="center">
+  <i>Final Year Data Engineering Student • UTM</i><br>
+  <i>Spoken Languages&nbsp;: Malay • English • Japanese</i>
+</p>
 
-## Recent Projects
+<br>
 
-🎮 [Nintendo Switch Games Catalog Clone - Flutter](https://github.com/oishylea/SwitchSavvy) | [Live Demo](https://switchsavvy-5465c.web.app/)<br>
-👩🏻‍🏫 [Student Management System - Website](https://github.com/oishylea/StudentManagement)<br>
-📒 [Note Management System - Website](https://github.com/oishylea/NoteManagementSystem)<br>
-📱 [Interactive Evolution of Mobile Phones - Website](https://github.com/oishylea/MobilePhoneEvolution) | [Live Demo](https://oishylea.github.io/MobilePhoneEvolution/)<br>
-🍎 [Fruits Classification - Python](https://github.com/oishylea/FruitsClassification) | [Live Demo](https://fruitsclassification-izzah.streamlit.app/)<br>
-🕹️ [Aim Trainer - Python](https://github.com/oishylea/AimTrainer) | [Live Demo](https://oishylea.itch.io/cat-aim-trainer)<br>
-🚸 [Bonding Bench - Braga Street Smart Health System](https://github.com/oishylea/BondingBench)<br>
+</div>
 
-## Licences & Certifications
+## ☁️ ˚｡ ⋆ Data Engineering ⋆ ｡˚
+| Project Name | Tech Stack | Style |
+| :--- | :---: | ---: |
+| 🍕 **[Pizza Pipeline](https://github.com/oishylea/PizzaDataPipeline)** | `Databricks` `PySpark` | Medallion Architecture |
+| 💰 **[Finance ETL](https://github.com/oishylea/FinanceETL)** | `Airflow` `Python` | Automated Workflows |
+| 👾 **[Nintendo Azure](https://github.com/oishylea/adfNintendo)** | `Azure` `Data Factory` | Cloud Ingestion |
+| 😄 **[Sentiment Analysis](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/DataDrillers)** | `Apache Tools` | Real-Time Insights |
+| 🚗 **[Carlist Scraping](https://github.com/drshahizan/HPDP/blob/main/2425/project/p1/GroupB/readme.md)** | `Python` | Web Extraction |
+
+## 🎨 ˚｡ ⋆ Creative Projects ⋆ ｡˚
+| Project Name | Platform | Links |
+| :--- | :--- | :--- |
+| 🎮 **Nintendo Catalog Clone** | Flutter | [Repo](https://github.com/oishylea/SwitchSavvy) • [Demo](https://switchsavvy-5465c.web.app/) |
+| 📱 **Mobile Phone Evolution** | Website | [Repo](https://github.com/oishylea/MobilePhoneEvolution) • [Demo](https://oishylea.github.io/MobilePhoneEvolution/) |
+| 🍎 **Fruits Classification** | Python | [Repo](https://github.com/oishylea/FruitsClassification) • [Demo](https://fruitsclassification-izzah.streamlit.app/) |
+| 🕹️ **Cat Aim Trainer** | Python | [Repo](https://github.com/oishylea/AimTrainer) • [Demo](https://oishylea.itch.io/cat-aim-trainer) |
+| 👩🏻‍🏫 **Student Management** | Website | [Repo](https://github.com/oishylea/StudentManagement) |
+| 📒 **Note Management** | Website | [Repo](https://github.com/oishylea/NoteManagementSystem) |
+| 🚸 **Bonding Bench - Braga Street Smart Health System** | Website | [Repo](https://github.com/oishylea/BondingBench) |
+
+
+## 📑 ˚｡ ⋆ Certifications ⋆ ｡˚
 🏅 [Japanese Language Proficiency Test : Level N2](https://www.linkedin.com/feed/update/urn:li:activity:7291069372599545858/)<br>
 🏅 [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/6bd5733c-040c-47eb-aae6-b539354168e3/public_url)<br>
 🏅 [AWS Academy Cloud Developing](https://www.credly.com/badges/0b289b5b-0275-4bbe-aa6f-a133484d6c44/public_url)<br>
@@ -35,7 +48,7 @@
 
 
 
-## Technical Skills
+## 🛠️ ˚｡ ⋆ Technical Skills ⋆ ｡˚
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
@@ -66,9 +79,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B3A1?logo=apacheairflow&logoColor=white&style=flat)
 
-<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) -->
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact&langs_count=10&hide=html,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oishylea&layout=compact&langs_count=10&hide=html,CSS)-->
 <!-- ## Contact
 
 <p>
