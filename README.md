@@ -2,21 +2,22 @@
 
 <div align="center">
 
-<br>
-
-<sub><h1>𓂂 𐬹 🫧 𐬹 𓂂</h1></sub>
-<sub><h1>Hi there, I'm Aliatul Izzah</h1></sub>
+<sub><h1>𓂂 𐬹 Hi there, I'm Aliatul Izzah 🫧 𐬹 𓂂</h1></sub>
 
 <p align="center">
   <i>Final Year Data Engineering Student • UTM</i><br>
-  <i>Spoken Languages&nbsp;: Malay • English • Japanese</i>
+  <p align="center">
+  <img src="https://img.shields.io/badge/MALAY-E0F2F1?style=for-the-badge&logoColor=697689" />
+  <img src="https://img.shields.io/badge/ENGLISH-E0F2F1?style=for-the-badge&logoColor=697689" />
+  <img src="https://img.shields.io/badge/JAPANESE-E0F2F1?style=for-the-badge&logoColor=697689" />
+  </p>
 </p>
 
 <br>
 
 </div>
 
-## ☁️ ˚｡ ⋆ Data Engineering ⋆ ｡˚
+## ☁️ ˚｡ ⋆ Data Engineering Projects⋆ ｡˚
 | Project Name | Tech Stack | Style |
 | :--- | :---: | ---: |
 | 🍕 **[Pizza Pipeline](https://github.com/oishylea/PizzaDataPipeline)** | `Databricks` `PySpark` | Medallion Architecture |
@@ -45,8 +46,6 @@
 🏅 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/139408c7-68b5-4c3e-aed7-0982aa9c1761/public_url)<br>
 🏅 [IBM watsonx Orchestrate Build an AI Assistant](https://www.credly.com/badges/2c7f4b26-1071-4189-bc49-725d91acfb6d/public_url)<br>
 🏅 [Introduction to Intelligent Virtual Agents (IVAs) with IBM watsonx Assistant](https://www.credly.com/badges/f1a22810-cf82-4b00-98e8-c328bb84c61b/public_url)<br>
-
-
 
 ## 🛠️ ˚｡ ⋆ Technical Skills ⋆ ｡˚
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
