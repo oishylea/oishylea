@@ -53,6 +53,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?logo=vue.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
