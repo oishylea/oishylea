@@ -4,15 +4,6 @@
 
 <sub><h1>𓂂 𐬹 Hi there, I'm Izzah 🫧 𐬹 𓂂</h1></sub>
 
-<p align="center">
-  <i>Final Year Data Engineering Student • UTM</i><br>
-  <p align="center">
-  <img src="https://img.shields.io/badge/MALAY-E0F2F1?style=for-the-badge&logoColor=697689" />
-  <img src="https://img.shields.io/badge/ENGLISH-E0F2F1?style=for-the-badge&logoColor=697689" />
-  <img src="https://img.shields.io/badge/JAPANESE-E0F2F1?style=for-the-badge&logoColor=697689" />
-  </p>
-</p>
-
 <br>
 
 </div>
