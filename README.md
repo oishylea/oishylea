@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<sub><h1>𓂂 𐬹 Hi there, I'm Aliatul Izzah 🫧 𐬹 𓂂</h1></sub>
+<sub><h1>𓂂 𐬹 Hi there, I'm Izzah 🫧 𐬹 𓂂</h1></sub>
 
 <p align="center">
   <i>Final Year Data Engineering Student • UTM</i><br>
