@@ -1,11 +1,5 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foishylea%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-<div align="center">
-
-<sub><h1>𓂂 𐬹 Hi there, I'm Izzah 🫧 𐬹 𓂂</h1></sub>
-
-<br>
-
 </div>
 
 ## ☁️ ˚｡ ⋆ Data Engineering Projects⋆ ｡˚
