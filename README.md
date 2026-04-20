@@ -43,6 +43,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?logo=dbeaver&logoColor=white&style=flat)
+![Adminer](https://img.shields.io/badge/-Adminer-4579D1?logo=adminer&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA5B29?logo=jupyter&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-EF3322?logo=laravel&logoColor=white&style=flat)
@@ -63,6 +66,9 @@
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B3A1?logo=apacheairflow&logoColor=white&style=flat)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
+
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,dart,flutter,figma,r,firebase,py,ps)](https://skillicons.dev) 
 
