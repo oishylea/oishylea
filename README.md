@@ -4,6 +4,10 @@
 </p>
 </div>
 
+### Halo~ I’m Izzah 👋
+Associate ALM Analyst with an interest in data engineering, cloud, automation, and creative software development. I enjoy building data pipelines, dashboards, games, and fun side projects.<br>
+Feel free to hit me up on Aniimo 🐾<br>
+
 ## ☁️ ˚｡ ⋆ Data Engineering Projects⋆ ｡˚
 | Project Name | Tech Stack | Style |
 | :--- | :---: | ---: |
